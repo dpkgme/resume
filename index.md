@@ -1,3 +1,8 @@
+---
+layout: default
+title: Angeliki' Resume
+---
+
 ## Angeliki' Resume
 
 ### Professional summary
