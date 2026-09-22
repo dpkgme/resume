@@ -1,5 +1,5 @@
 title: Resume
-remote_theme: pages-themes/tactile@v0.2.0
+theme: jekyll-theme-primer
 
 plugins:
   - jekyll-remote-theme
