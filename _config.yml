@@ -2,3 +2,5 @@ title: Angeliki K.
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+minima:
+  social_links: []
