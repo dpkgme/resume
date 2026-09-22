@@ -1,9 +1,5 @@
-remote_theme: jekyll/minima
+title: Resume
+remote_theme: pages-themes/cayman@v0.2.0
 
-header_pages: []
-
-minima:
-  social_links: []
-  
 plugins:
   - jekyll-remote-theme
