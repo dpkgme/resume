@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the default Jekyll header link / repo title */
+.project-name, 
+.site-header, 
+.header-link,
+a.site-title {
+  display: none !important;
+}
