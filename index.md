@@ -1,14 +1,14 @@
 ---
 layout: default
-title: " "
+title: ""
 ---
 
-## Angeliki K.
+# Angeliki K.
 
-### Professional summary
+## Professional summary
 QA engineer and technical operations specialist with over 8 years of experience across software testing, operational support and release coordination. Skilled in planning release cycles, organizing team tasks, conducting API/manual testing, tracking defects and bridging communication between development teams and project stakeholders. Brings a well-rounded technical background combining hands-on QA practices, Linux/cloud infrastructure familiarity and SRE/monitoring exposure from previous support roles.
 
-### Technical skills and tools
+## Technical skills and tools
 **Core QA and operations (Daily / Hands-on)**
 
 - Testing practices: Manual testing, API testing (Postman), Functional and regression testing, Defect reporting, Bug tracking, Test
@@ -21,8 +21,8 @@ documentation (Confluence wikis), Requirements analysis
 - Environments and admin: Debian/Linux VMs, Basic DNS & SSL management, REST APIs, Git
 - Collaboration and ticketing: Jira, Confluence, Slack, Ticketing systems
 
-### Work experience
-**Functional analysis, Development oversight, Quality engineering, Release management | Oct 2019 - Present**
+## Work experience
+### Functional analysis, Development oversight, Quality engineering, Release management | Oct 2019 - Present
 - Release planning and team coordination: Coordinate upcoming release cycles and roadmap execution in Jira. Organize task
 distribution across engineering teams, define deployment readiness and align cross-functional priorities for smooth service
 rollouts.
@@ -48,7 +48,7 @@ set up analytics dashboards and coordinated UAT for a seamless transition.
 support personnel.
 - Tools and technologies: Git, GitLab, Jira, Confluence, Postman, Jenkins, Sentry, REST APIs, Slack, Docker
 
-**NOC / SRE support specialist | May 2018 - Oct 2019**
+### NOC / SRE support specialist | May 2018 - Oct 2019
 - Infrastructure and system monitoring: Monitored Unix/Linux servers, systems and services across datacenter infrastructure to
 maintain high availability and stability. Evaluated real-time system alerts using Icinga, Kibana and Grafana, analyzed incidents
 and identified potential performance issues to prioritize maintenance by severity.
@@ -61,7 +61,7 @@ external vendors to coordinate physical datacenter support, maintenance schedule
 - Tools and technologies: Unix/Linux, Icinga, Kibana, Grafana, Git, Ganeti cloud infrastructure, DNS Configuration, SSL/TLS
 Certificates, Datacenter infrastructure, incident management.
 
-**Helpdesk / Technical support agent | May 2017 - May 2018**
+### Helpdesk / Technical support agent | May 2017 - May 2018
 - Front-Line technical support: Provided front-line phone and email support to users within the Greek academic and research
 community, handling real-time requests and operational queries.
 - Incident management and troubleshooting: Executed thorough troubleshooting operations to resolve user issues, generated
@@ -72,7 +72,7 @@ investigating user history and correlating system logs to perform root-cause ana
 clear user manuals. Initiated early-stage manual software testing for public services prior to user release.
 - Tools and technologies: Ticketing and support systems, Cloud VMs, User documentation, Incident reporting, Manual testing.
 
-**Customer support specialist | May 2015 - May 2016**
+### Customer support specialist | May 2015 - May 2016
 - Customer service: Managed incoming customer inquiries, orders and complaints via phone and email.
 - E-commerce platform support: Assisted customers with account navigation, order placement, payment processing and
 return/refund procedures.
