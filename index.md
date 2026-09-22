@@ -3,8 +3,6 @@ layout: page
 title: ""
 ---
 
-# Angeliki K.
-
 ## Professional summary
 QA engineer and technical operations specialist with over 8 years of experience across software testing, operational support and release coordination. Skilled in planning release cycles, organizing team tasks, conducting API/manual testing, tracking defects and bridging communication between development teams and project stakeholders. Brings a well-rounded technical background combining hands-on QA practices, Linux/cloud infrastructure familiarity and SRE/monitoring exposure from previous support roles.
 
