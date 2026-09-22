@@ -1,6 +1,10 @@
 title: Angeliki K.
 remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
+
+header_pages: []
+
 minima:
   social_links: []
+  
+plugins:
+  - jekyll-remote-theme
