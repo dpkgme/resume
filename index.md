@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Angeliki K."
+title: ""
 ---
 
 ### Professional summary
